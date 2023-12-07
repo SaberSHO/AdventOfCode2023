@@ -43,6 +43,7 @@ for x in range(0,time2):
 print(winning)
 
 #LETS BE SMART
+## this doenst work, will look at later
 
 b2m4ac = (t**2) - (4*-1*d)
 sol1 = (-t-math.sqrt(b2m4ac))/(2)
